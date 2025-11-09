@@ -1,0 +1,11 @@
+.addBag{
+     border: none;
+     padding: 10px 15px;
+     border-radius:10px;
+     text-transform: uppercase;
+}
+.moveWishList{
+    border: 2px solid black;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
